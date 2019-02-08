@@ -1,2 +1,11 @@
 /node_modules
 package-lock.json
+.babelrc
+App.js 
+main.js 
+index.html
+/notifi/node_modules
+/notifi/package-lock.json
+/notifi
+/bundle
+webpack.config.js
